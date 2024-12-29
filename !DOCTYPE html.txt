@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="el">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Πολιτική Απορρήτου & Τρόποι Πληρωμής</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+        }
+        main {
+            padding: 20px;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+        h2 {
+            color: #333;
+        }
+        footer {
+            text-align: center;
+            margin-top: 30px;
+            padding: 10px 0;
+            background: #f4f4f4;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Πολιτική Απορρήτου & Τρόποι Πληρωμής</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Πολιτική Απορρήτου</h2>
+            <p>Η εταιρεία μας δεσμεύεται για την προστασία των προσωπικών σας δεδομένων. Τα δεδομένα σας χρησιμοποιούνται μόνο για την ολοκλήρωση των παραγγελιών και την καλύτερη εξυπηρέτησή σας.</p>
+            <p>Δεν κοινοποιούμε τα προσωπικά σας δεδομένα σε τρίτους χωρίς τη συγκατάθεσή σας.</p>
+        </section>
+        <section>
+            <h2>Τρόποι Πληρωμής</h2>
+            <ul>
+                <li><strong>Πιστωτική/Χρεωστική Κάρτα:</strong> Ασφαλείς συναλλαγές μέσω της πλατφόρμας πληρωμών μας.</li>
+                <li><strong>Τραπεζική Κατάθεση:</strong> Κατάθεση σε τραπεζικό λογαριασμό της εταιρείας μας.</li>
+                <li><strong>Αντικαταβολή:</strong> Πληρωμή κατά την παραλαβή της παραγγελίας.</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Ηλεκτρονική Επιχείρηση Φωτογραφικών Μηχανών</p>
+    </footer>
+</body>
+</html>
